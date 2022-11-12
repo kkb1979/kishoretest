@@ -1,0 +1,9 @@
+setup path C:\Program Files\Git\cmd
+Create a folder D:\Code\GitDemo
+Create dummy files A.txt and B.txt
+git init - initialized empty git
+git config --global user.name "Kishore"
+git config --global user.email "kkb1979@gmail.com"
+
+
+

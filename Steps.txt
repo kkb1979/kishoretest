@@ -5,5 +5,11 @@ git init - initialized empty git
 git config --global user.name "Kishore"
 git config --global user.email "kkb1979@gmail.com"
 
+git add .
+git commit -m 'new files added'
+
+git command reference: https://git-scm.com/docs
+
+
 
 
